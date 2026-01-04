@@ -1,0 +1,312 @@
+DIGITAL TRANSFORMATION
+Individual Assessment​
+​
+
+Total Marks: 100
+​
+
+Student Name
+Student ID
+Course / Programme
+Submission Date
+
+Karl Emmanuel Medina
+21800728
+BS IT - 2
+1/4/2026
+
+1 | Page
+
+DETAILED INSTRUCTIONS TO STUDENTS
+1.​ This is an INDIVIDUAL assessment. Collaboration with other students is NOT
+permitted. All answers is to be written in this sheet.
+2.​ The assessment consists of THREE sections:
+​
+• Section A: Objective Questions (Chapters 1–3)​
+• Section B: Short Answer Questions (Chapter 4)​
+• Section C: Case Study Questions (Chapters 5–7)​
+​
+3. You are REQUIRED to refer to the Digital Transformation module PDF provided to
+you. Each section clearly states which chapter(s) you should consult before
+answering.
+
+4.​ For objective questions (Section A), select the BEST answer based on the
+concepts discussed in the module.
+5.​ For short answer and case study questions (Sections B and C):
+●​ Use clear and structured paragraphs
+●​ Support your answers with examples where appropriate
+●​ Focus on application of concepts, not just definitions
+6.​ Suggested answer lengths:
+●​ Short Answer Questions: 150–200 words each
+●​ Case Study Questions: 250–400 words per question
+8.​ Marks will be awarded based on:
+​
+• Understanding of module concepts​
+• Ability to apply concepts to real situations​
+• Clarity, coherence, and structure of answers​
+9.​ Submission must be made in the format (PDF) by the 1st January 2025.​
+
+2 | Page
+
+DIGITAL TRANSFORMATION – INDIVIDUAL ASSESSMENT
+Total Marks: 100
+Assessment Structure
+Section
+Chapters
+Question Type
+Marks
+Covered
+Section A
+Chapters 1–3
+Objective Questions (MCQ / 30 marks
+True–False)
+
+Section B
+
+Chapter 4
+
+Short Answer Questions
+
+Section C
+
+Chapters 5–7
+
+Case Study Questions
+
+TOTAL
+
+20 marks
+50 marks
+100 marks
+
+3 | Page
+
+SECTION A: OBJECTIVE QUESTIONS (30 MARKS)
+Chapters 1–3
+Section A Overview (Read Before Answering)
+This section assesses your understanding of the foundational concepts of digital
+transformation, including definitions, technologies, and digital business strategies.
+Questions are objective and test conceptual clarity rather than lengthy explanations.
+
+Refer to PDF Module:
+●​ Chapter 1 – Introduction to Digital Transformation
+●​ Chapter 2 – Technologies Enabling Digital Transformation
+●​ Chapter 3 – Digital Business Models and Strategy
+Part A1: Chapter 1 – Introduction to Digital Transformation (10 marks)
+Refer to PDF Chapter 1, Sections:​
+“Digitization vs Digitalization vs Digital Transformation” and​
+“Why Digital Transformation Matters”
+
+Answer ALL questions. Each question carries 2 marks.
+1.​ Digital transformation refers primarily to:
+​
+A. Using computers in daily work​
+B. Automating existing processes only​
+C. Fundamental organizational change enabled by digital technologies​
+D. Replacing employees with machines
+2.​ Which of the following best describes digitization?
+​
+A. Redesigning business models​
+B. Converting physical information into digital form​
+C. Using analytics for decision-making​
+D. Creating digital platforms
+3.​ Which factor is a common reason for digital transformation failure?
+​
+A. Lack of software​
+4 | Page
+
+B. Excessive customer demand​
+C. Resistance to change and culture issues​
+D. Too much automation
+4.​ Digital transformation is best described as:
+​
+A. A one-time IT project​
+B. An ongoing organizational change process​
+C. A marketing strategy​
+D. A cost-cutting exercise
+5.​ Which industry is LEAST affected by digital transformation?
+​
+A. Banking​
+B. Healthcare​
+C. Education​
+D. None of the above
+
+5 | Page
+
+Part A2: Chapter 2 – Technologies Enabling Digital Transformation (10
+marks)
+Refer to PDF Chapter 2, Sections:​
+“Key Digital Technologies” and “Role of Technology in Transformation”
+
+Answer ALL questions. Each question carries 2 marks.
+6.​ Cloud computing primarily enables organizations to:
+​
+A. Reduce customer interaction​
+B. Store data physically​
+C. Scale resources flexibly and cost-effectively​
+D. Eliminate cybersecurity risks
+
+7.​ Artificial Intelligence (AI) is commonly used for:
+​
+A. Manual data entry​
+B. Predictive analytics and automation​
+C. Hardware maintenance​
+D. Paper-based processing
+
+8.​ The Internet of Things (IoT) refers to:
+​
+A. Social media platforms​
+B. Internet access for employees​
+C. Connected physical devices that collect data​
+D. Cloud storage systems
+
+9.​ Big data analytics helps organizations mainly by:
+​
+A. Increasing storage costs​
+B. Replacing management​
+C. Supporting better decision-making​
+D. Eliminating uncertainty entirely
+6 | Page
+
+10.​Blockchain technology is best known for:
+​
+A. Speeding up emails​
+B. Secure and transparent record-keeping​
+C. Social networking​
+D. Image processing
+
+7 | Page
+
+Part A3: Chapter 3 – Digital Strategy and Business Models (10 marks)
+Refer to PDF Chapter 3, Sections:​
+“Digital Business Models” and “Strategy in the Digital Age”
+
+Answer ALL questions. Each question carries 2 marks.
+11.​A digital platform business model primarily creates value by:
+​
+A. Selling physical goods​
+B. Connecting users and service providers​
+C. Reducing employee numbers​
+D. Eliminating competition
+
+12.​A subscription-based model typically charges customers:
+​
+A. Per physical product​
+B. A one-time lifetime fee​
+C. Recurring payments for continued access​
+D. Only when profits increase
+
+13.​Strategic agility refers to an organization’s ability to:
+​
+A. Avoid digital tools​
+B. Respond quickly to changes​
+C. Maintain rigid structures​
+D. Reduce innovation
+
+14.​Data is considered a strategic asset because it:
+​
+A. Is expensive to store​
+B. Automatically increases profits​
+C. Enables insights and personalization​
+D. Replaces employees
+8 | Page
+
+15.​Digital strategy differs from IT strategy because it focuses on:
+​
+A. Hardware procurement​
+B. Value creation and competitive advantage​
+C. Network installation​
+D. Software licensing only
+
+9 | Page
+
+SECTION B: SHORT ANSWER QUESTIONS (20 MARKS)
+Chapter 4
+Section B Overview (Read Before Answering)
+This section focuses on the human side of digital transformation, including
+organizational culture, resistance to change, and basic change management
+practices.
+
+Refer to PDF Module:
+●​ Chapter 4 – Organizational Change and Digital Culture
+Answer ALL questions. Each question carries 10 marks.
+Question 16:
+​
+Explain why organizational culture is critical to the success of digital transformation.
+In your answer, identify ONE cultural barrier and explain how it affects transformation
+efforts.
+
+Refer to Chapter 4: “People and Culture in Digital Transformation”
+Suggested length: 150–200 words
+
+10 | Page
+
+Question 17:
+​
+Describe one change management strategy that organizations can use to support
+digital transformation. Explain how this strategy helps employees adapt to new digital
+systems or processes.
+
+Refer to Chapter 4: “Change Management in Digital Initiatives”
+Suggested length: 150–200 words
+
+11 | Page
+
+SECTION C: CASE STUDY QUESTIONS (50 MARKS)
+Chapters 5–7
+Section C Overview (Read Before Answering)
+This section assesses your ability to apply digital transformation concepts to
+
+real-world scenarios. You will analyze a case and answer questions related to
+customer experience, ethics, governance, and implementation.
+
+Refer to PDF Module:
+●​ Chapter 5 – Customer Experience and Digital Engagement
+●​ Chapter 6 – Ethics, Data Governance, and Cybersecurity
+●​ Chapter 7 – Applying Digital Transformation
+CASE STUDY: Digital Transformation at UniConnect Services
+UniConnect Services is a medium-sized organization providing student support
+services such as registration, advising, and payment processing. Most processes are
+manual, requiring students to visit physical offices. Complaints include long waiting
+times, repeated form submissions, and inconsistent information. Management plans
+to introduce a digital platform with online services, data analytics, and chat-based
+support.
+
+12 | Page
+
+Question 18: Customer Experience (15 marks)
+Using concepts from Chapter 5, identify TWO customer experience problems faced
+by students and propose digital solutions to address them.
+Refer to Chapter 5: “Customer Journey Mapping” and “Digital Engagement”
+
+13 | Page
+
+Question 19: Ethics, Data Governance, and Security (15 marks)
+Based on Chapter 6, discuss TWO risks related to data privacy, cybersecurity, or
+ethics that UniConnect Services may face when implementing digital systems.
+Propose one mitigation strategy for each risk.
+
+Refer to Chapter 6: “Cybersecurity”, “Data Governance”, and “Ethics”
+
+14 | Page
+
+Question 20: Implementation and Roadmapping (20 marks)
+Using ideas from Chapter 7, outline a basic digital transformation roadmap for
+UniConnect Services. Your answer should include:
+●​
+
+One short-term initiative
+
+●​
+
+One long-term initiative
+
+●​
+
+One key success metric (KPI)
+
+Refer to Chapter 7: “Digital Transformation Roadmaps”
+
+15 | Page
+
+
